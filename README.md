@@ -27,5 +27,3 @@ Jetpack Compose / Kotlin Coroutines / RxJava / Retrofit / Dagger Hilt / Dagger2 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gradle,maven,postman,figma,idea,notion" />
 <br>
 
-## Career
-istyle Inc. / ZOZO Technologies, Inc. / Eureka, Inc. / etc.
