@@ -29,4 +29,4 @@ Jetpack Compose / Kotlin Coroutines / RxJava / Retrofit / Dagger Hilt / Dagger2 
 ![](https://komarev.com/ghpvc/?username=suzukiyut27&color=grey)
 
 ## Career
-Eureka, Inc. / ZOZO Technologies, Inc. / etc.
+istyle Inc. / ZOZO Technologies, Inc. / Eureka, Inc. / etc.
