@@ -17,7 +17,7 @@
 
 <br>
 
-Jetpack Compose / Kotlin Coroutines / RxJava / Retrofit / Dagger Hilt / Dagger2 / Koin / Ktor / Room / Realm / Kotlin Multiplatform / Git / GitHub Actions / Bitrise / Codemagic / SwiftUI / Concurrency / Combine / RxSwift / Firebase
+Jetpack Compose / Kotlin Coroutines / RxJava / Retrofit / Dagger Hilt / Dagger2 / Koin / Ktor / Room / Realm / Kotlin Multiplatform / Git / GitHub Actions / Bitrise / Codemagic / SwiftUI / Concurrency / Combine / RxSwift / Firebase / ExoPlayer / MediaPlayer / OpenCV / ML Kit
 
 <br>
 
