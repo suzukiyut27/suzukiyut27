@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=suzukiyut27&color=grey)
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - Senior Android Engineer and Manager
@@ -24,9 +26,6 @@ Jetpack Compose / Kotlin Coroutines / RxJava / Retrofit / Dagger Hilt / Dagger2 
 ## Tools etc
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gradle,maven,postman,figma,idea,notion" />
 <br>
-
-
-![](https://komarev.com/ghpvc/?username=suzukiyut27&color=grey)
 
 ## Career
 istyle Inc. / ZOZO Technologies, Inc. / Eureka, Inc. / etc.
